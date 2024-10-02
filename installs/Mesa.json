@@ -1,0 +1,5 @@
+{
+    "name": "Mesa",
+    "version": "org.freedesktop.Platform.GL32.default",
+    "type": "Flatpak Installation"
+}

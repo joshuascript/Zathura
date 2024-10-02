@@ -1,0 +1,24 @@
+Discord	com.discordapp.Discord	0.0.68	stable	system
+Space Cadet Pinball	com.github.k4zmu2a.spacecadetpinball	2.1.0	stable	system
+Spotify	com.spotify.Client	1.2.42.290.g242057a2	stable	system
+Steam	com.valvesoftware.Steam	1.0.0.79	stable	system
+BibleTime	info.bibletime.BibleTime	3.0.3	stable	system
+Blender	org.blender.Blender	4.2.1	stable	system
+TAP-plugins	org.freedesktop.LinuxAudio.Plugins.TAP	1.0.1	23.08	system
+SWH	org.freedesktop.LinuxAudio.Plugins.swh	0.4.17	23.08	system
+Freedesktop Platform	org.freedesktop.Platform	freedesktop-sdk-23.08.23	23.08	system
+Freedesktop Platform	org.freedesktop.Platform	freedesktop-sdk-24.08.2	24.08	system
+i386	org.freedesktop.Platform.Compat.i386		23.08	system
+Mesa	org.freedesktop.Platform.GL.default	24.2.3	23.08	system
+Mesa (Extra)	org.freedesktop.Platform.GL.default	24.2.3	23.08-extra	system
+nvidia-560-35-03	org.freedesktop.Platform.GL.nvidia-560-35-03		1.4	system
+Mesa	org.freedesktop.Platform.GL32.default	24.2.1	23.08	system
+Mesa (Extra)	org.freedesktop.Platform.GL32.default	24.2.1	23.08-extra	system
+Intel	org.freedesktop.Platform.VAAPI.Intel		23.08	system
+i386	org.freedesktop.Platform.VAAPI.Intel.i386		23.08	system
+ffmpeg-full	org.freedesktop.Platform.ffmpeg-full		23.08	system
+openh264	org.freedesktop.Platform.openh264	2.1.0	2.2.0	system
+Breeze GTK theme	org.gtk.Gtk3theme.Breeze	6.1.5	3.22	system
+KDE Application Platform	org.kde.Platform		5.15-23.08	system
+Krita	org.kde.krita	5.2.3	stable	system
+Sonic Robo Blast 2	org.srb2.SRB2	2.2.13	stable	system

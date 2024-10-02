@@ -1,0 +1,5 @@
+{
+    "name": "Freedesktop",
+    "version": "org.freedesktop.Platform",
+    "type": "Flatpak Installation"
+}
