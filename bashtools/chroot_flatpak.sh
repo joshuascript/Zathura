@@ -12,7 +12,18 @@ FLATPAK_PACKAGE="$1"
 INSTALL_DIR="../chroot_env"
 
 # Ensure the installation directory exists
-mkdir -p "$INSTALL_DIR"
+sudo mkdir -p "$INSTALL_DIR"
+
+# Create necessary directories fo the chroot enviroment
+sudo mkdir -p "$INSTALL_DIR/bin"
+
+sudo mkdir -p "$INSTALL_DIR/lib"
+
+sudo mkdir -p "$INSTALL_DIR/lib64"
+
+# Make sure all the file are copied and updated for the bin, lib, lib64 directories
+
+rsync -a --ignore-existing */bin/ ./bin/
 
 echo "Setting up chroot environment in: $INSTALL_DIR"
 
